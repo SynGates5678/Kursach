@@ -1,0 +1,265 @@
+{
+    "products": [
+        {
+            "product_id": 1,
+            "name": "Электрогитара S by Solar SB4.6FRFBR",
+            "price": 45990.0,
+            "stock": 15
+        },
+        {
+            "product_id": 2,
+            "name": "Электрогитара S by Solar EB4.6W",
+            "price": 36990.0,
+            "stock": 15
+        },
+        {
+            "product_id": 3,
+            "name": "Электрогитара FENDER VINTERA '60s Stratocaster Ice Blue Metallic",
+            "price": 195000.0,
+            "stock": 5
+        },
+        {
+            "product_id": 4,
+            "name": "Электрогитара FENDER SQUIER 40th Anniversary Telecaster LRL Sherwood Green",
+            "price": 88000.0,
+            "stock": 15
+        },
+        {
+            "product_id": 5,
+            "name": "Электрогитара Schecter BANSHEE-6 SGR SBK",
+            "price": 30096.0,
+            "stock": 13
+        },
+        {
+            "product_id": 6,
+            "name": "Электрогитара Schecter C-7 Deluxe SBK",
+            "price": 45990.0,
+            "stock": 13
+        },
+        {
+            "product_id": 7,
+            "name": "Электрогитара CORT MBM-2P-SS META Series",
+            "price": 63000.0,
+            "stock": 11
+        },
+        {
+            "product_id": 8,
+            "name": "Электрогитара IBANEZ JEMJR-WH",
+            "price": 90000.0,
+            "stock": 14
+        },
+        {
+            "product_id": 9,
+            "name": "Акустическая гитара IBANEZ PF15ECE-BK",
+            "price": 41990.0,
+            "stock": 15
+        },
+        {
+            "product_id": 10,
+            "name": "Акустическая гитара FENDER CD-60S Natural",
+            "price": 33590.0,
+            "stock": 15
+        },
+        {
+            "product_id": 11,
+            "name": "Акустическая гитара EPIPHONE J-200 EC Studio Vintage Sunburst",
+            "price": 114000.0,
+            "stock": 15
+        },
+        {
+            "product_id": 12,
+            "name": "Акустическая гитара FENDER CD-60SCE Natural",
+            "price": 50390.0,
+            "stock": 15
+        },
+        {
+            "product_id": 13,
+            "name": "Бас-гитара IBANEZ GSR200B-WNF",
+            "price": 40990.0,
+            "stock": 15
+        },
+        {
+            "product_id": 14,
+            "name": "Бас-гитара IBANEZ SR305EB-WK",
+            "price": 71390.0,
+            "stock": 15
+        },
+        {
+            "product_id": 15,
+            "name": "Бас-гитара IBANEZ GSR206B-WNF",
+            "price": 53590.0,
+            "stock": 15
+        },
+        {
+            "product_id": 16,
+            "name": "Бас-гитара Fernandes RPB360 SW",
+            "price": 39990.0,
+            "stock": 15
+        },
+        {
+            "product_id": 17,
+            "name": "Бас-гитара Schecter OMEN-4 BLK",
+            "price": 54520.0,
+            "stock": 15
+        },
+        {
+            "product_id": 18,
+            "name": "Педаль перегруза BOSS DS-2",
+            "price": 12000.0,
+            "stock": 15
+        },
+        {
+            "product_id": 19,
+            "name": "Педаль перегруза BOSS FZ-5",
+            "price": 18890.0,
+            "stock": 14
+        },
+        {
+            "product_id": 20,
+            "name": "Педаль реверберации BOSS RV-6",
+            "price": 24000.0,
+            "stock": 15
+        },
+        {
+            "product_id": 21,
+            "name": "Педаль модуляции BOSS CE-5",
+            "price": 14000.0,
+            "stock": 15
+        },
+        {
+            "product_id": 22,
+            "name": "Педаль задержки BOSS DD-3T",
+            "price": 21090.0,
+            "stock": 15
+        },
+        {
+            "product_id": 23,
+            "name": "Педаль Wah VOX WAH V845",
+            "price": 10790.0,
+            "stock": 15
+        },
+        {
+            "product_id": 24,
+            "name": "Комбоусилитель для электрогитары BOSS KTN-50MKII",
+            "price": 41900.0,
+            "stock": 15
+        },
+        {
+            "product_id": 25,
+            "name": "Комбоусилитель для электрогитары VOX VT40X",
+            "price": 41500.0,
+            "stock": 15
+        },
+        {
+            "product_id": 26,
+            "name": "Комбоусилитель для электрогитары MARSHALL DSL20 COMBO",
+            "price": 120000.0,
+            "stock": 15
+        },
+        {
+            "product_id": 27,
+            "name": "Комбоусилитель для электрогитары VOX AC30C2",
+            "price": 178490.0,
+            "stock": 4
+        },
+        {
+            "product_id": 28,
+            "name": "Комбоусилитель для бас-гитары FENDER RUMBLE 100 COMBO",
+            "price": 68000.0,
+            "stock": 10
+        },
+        {
+            "product_id": 29,
+            "name": "Комбоусилитель для бас-гитары VOX VX50-BA",
+            "price": 46190.0,
+            "stock": 10
+        },
+        {
+            "product_id": 30,
+            "name": "Комбоусилитель для бас-гитары IBANEZ IBZ10BV2",
+            "price": 12000.0,
+            "stock": 15
+        }
+    ],
+    "customers": [
+        {
+            "customer_id": 1,
+            "name": "Даниил Ротницкий",
+            "email": "Danya@gmail.com"
+        },
+        {
+            "customer_id": 2,
+            "name": "Андрей Лазаренко",
+            "email": "Andrei@gmail.com"
+        },
+        {
+            "customer_id": 3,
+            "name": "Мэттью Беллами",
+            "email": "PlugInBaby@gmail.com"
+        },
+        {
+            "customer_id": 4,
+            "name": "Крис Уолстенхолм",
+            "email": "BassKing@gmail.com"
+        },
+        {
+            "customer_id": 5,
+            "name": "Джеймс Хэтфилд",
+            "email": "DownpickKing@gmail.com"
+        },
+        {
+            "customer_id": 6,
+            "name": "Синистер Гейтс",
+            "email": "SweepLord@gmail.com"
+        },
+        {
+            "customer_id": 7,
+            "name": "Джонни Гринвуд",
+            "email": "JonnyGreen@gmail.com"
+        },
+        {
+            "customer_id": 8,
+            "name": "Кирк Хэмметт",
+            "email": "WahWahMan@gmail.com"
+        },
+        {
+            "customer_id": 9,
+            "name": "Дэйв Мастейн",
+            "email": "RedheadDevil@gmail.com"
+        }
+    ],
+    "orders": [
+        {
+            "order_id": 1,
+            "customer": {
+                "customer_id": 2
+            },
+            "products": [
+                [
+                    5,
+                    1
+                ]
+            ]
+        },
+        {
+            "order_id": 2,
+            "customer": {
+                "customer_id": 3
+            },
+            "products": [
+                [
+                    27,
+                    1
+                ],
+                [
+                    19,
+                    1
+                ],
+                [
+                    7,
+                    1
+                ]
+            ]
+        }
+    ]
+}
